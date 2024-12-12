@@ -1,0 +1,1 @@
+This is the file which is created in GITHUB.  Let us see how git clone is working
